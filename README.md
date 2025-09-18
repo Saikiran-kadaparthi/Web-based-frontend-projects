@@ -5,7 +5,7 @@ The goal of this repo is to practice core web development concepts like layouts,
 
 ## 📂 Projects Included :
 
-### ⬤ Amazon Frontend Clone (Work in Progress) 🛒: 
+### 🛒 Amazon Frontend Clone (Work in Progress) : 
 ● Basic navbar with search & cart
 
 ● Status: 🚧 In Progress
