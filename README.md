@@ -1,13 +1,11 @@
-# Web-based-frontend-projects
-
-##🎨 Frontend Web Development Projects :
+## 🎨 Frontend Web Development Projects :
 
 This repository contains a collection of my frontend projects built using HTML, CSS, and JavaScript.
 The goal of this repo is to practice core web development concepts like layouts, responsiveness, and interactivity.
 
 ## 📂 Projects Included :
 
-## 🛒 Amazon Frontend Clone (Work in Progress) : 
+#### 🛒 Amazon Frontend Clone (Work in Progress) : 
 ● Basic navbar with search & cart
 
 ● Status: 🚧 In Progress
