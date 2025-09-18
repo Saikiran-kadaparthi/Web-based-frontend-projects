@@ -5,22 +5,22 @@
 This repository contains a collection of my frontend projects built using HTML, CSS, and JavaScript.
 The goal of this repo is to practice core web development concepts like layouts, responsiveness, and interactivity.
 
-##📂 Projects Included :
+## 📂 Projects Included :
 
-##🛒 Amazon Frontend Clone (Work in Progress) : 
+## 🛒 Amazon Frontend Clone (Work in Progress) : 
 ● Basic navbar with search & cart
 
 ● Status: 🚧 In Progress
 
 
-##🛠️ Tech Stack : 
+## 🛠️ Tech Stack : 
 ● HTML5 – Structure
 
 ● CSS3 – Styling, Layouts, Animations
 
 ● JavaScript – Interactivity
 
-##🎯 Learning Goals : 
+## 🎯 Learning Goals : 
 ● Improve frontend fundamentals
 
 ● Practice responsive design
@@ -29,9 +29,6 @@ The goal of this repo is to practice core web development concepts like layouts,
 
 ● Get comfortable with GitHub & deployment
 
-
-
-📌 Status : 
-
+## 📌 Status : 
 ● Ongoing 🚧 — new projects will be added regularly.
 
