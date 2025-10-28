@@ -1,0 +1,53 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: Grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.board {
+    width: 80vmin;
+    height: 80vmin;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.row {
+    flex: 1;
+    display: flex;
+}
+.row .box {
+    flex: 1;
+    /* border: 1px inset black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.white
+{
+    background-color: #9fb1be;
+
+}
+.black
+{
+    background-color: #4f7081;
+}
+
+.queen
+{
+
+    width: 80%;
+    height: 80%;
+    background: url(Chess-Queen-Transparent-PNG.png);
+    background-size: cover;
+}
